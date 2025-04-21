@@ -56,7 +56,7 @@ const About = () => {
   </div>
   <div className="flex items-center">
     <Trophy size={20} className="mr-3 text-primary-500" />
-    <span>500+ Problems Solved</span>
+    <span>250+ Problems Solved</span>
   </div>
 </div>
             </div>
